@@ -155,8 +155,8 @@ body{
 
 @media (max-width: 480px) {
     .logo-container {
-        width: clamp(120px, 40vw, 180px);
-        height: clamp(120px, 40vw, 180px);
+        width: clamp(140px, 40vw, 200px);
+        height: clamp(140px, 40vw, 200px);
     }
 }
 
@@ -291,5 +291,6 @@ margin-top: 0;
         transform: scale(1.05);
     }
 }
+
 
  
